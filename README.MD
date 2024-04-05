@@ -2,6 +2,37 @@
 
 > This repository contains the starter code for the DAO Adventure project. You are required to complete the code across all 7 chapters.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="./assets/cover.png"  alt="Motoko Bootcamp Cover">
 
 ## Welcome 👋

@@ -20,7 +20,7 @@ actor {
         // The principal of the Webpage canister associated with this DAO canister (needs to be updated with the ID of your Webpage canister)
         stable let canisterIdWebpage : Principal = Principal.fromText("aaaaa-aa");
         stable var manifesto = "Your manifesto";
-        stable let name = "Your DAO";
+        stable let name = "Sami DAO";
         stable var goals = [];
 
         // Returns the name of the DAO
